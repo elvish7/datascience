@@ -1,8 +1,7 @@
 # NTU CSX_datascience  
-## Self introduction  
-Name：曹佳穎  
-Student ID：B05101047  
-Major：Economics/Chinese Literature  
+## Self introduction   
+Student ID： B05101047  
+Major： Economics/Chinese Literature  
 
 ## Class Schedule  
 ### week1 2/21 Introduction  
@@ -23,7 +22,7 @@ Major：Economics/Chinese Literature
 
 ### week3 3/7 Finance CRM case introduction/91APP customer behavior analysis   
 * work on HW1(find a theme)  
-*　learn python model of visualization(matplotlib,seaborn,panda...)  
+* learn python model of visualization(matplotlib,seaborn,panda...)  
 * Practice - analysis credit card data  
 
 ### week4 3/14 data comprehension  
@@ -35,38 +34,33 @@ Major：Economics/Chinese Literature
 >data set: ETF data(by Nomura)/select technology ETF only  
 >schedule: crawling, visualization(no for loop yet, also there's only 1 ETF data)  
 
-### week5 3/21 數值資料預處理  
-* 學習進度  
->範例專案參考(台北市候選人臉書經營方式的影響分析)  
->R程式的shiny套件-將程式輸出成網頁  
->琢磨專案題目設計-"巧思"的重要性  
->與瑞士銀行經理討論、探討ETF資料的分析價值  
+### week5 3/21 Numerical data preprocessing    
+* R shiny(package) - code output website  
+* decide project theme    
+* discuss with bank manager about ETF data  
 
 * HW2  
->將資料處理成可進行分析的狀態以供接下來的視覺化備用  
+>data preprocessing    
 
-### week6 3/28 資料視覺化與 EDA  
-* 學習進度  
-> 南山人壽講解
-> 資料分析:處理dirty data/問問題跟講故事/主觀判斷資料的篩選/建構模型  
+### week6 3/28 data visualization/EDA  
+* data analysis - deal with dirty data/ask questions and tell stories/decide selected data/build model    
 
 * HW3  
->將預處理過的資料進行資料視覺化，並進行 EDA，提出對資料更深刻的理解  
+>data visualization/EDA/interpretation    
 
-### week7 4/4 no class  
-* 學習進度  
+### week7 4/4 no class    
 
-### week8 4/11 分群分析  
-* 學習進度
->同學作業觀摩  
->講義內容 : 介紹機器學習、資料科學等關係  
->資料分析是"怎麼用資料"，data mining等則比較像是基礎建設(工程師就像蓋高速公路的工人)，一旦硬體建好，關鍵問題是應用。  
->machine learning跟統計並無重疊，統計可以有假設以推知分布，machine learnig則是在建立"猜答案的方法"。  
->SVM - 將二維轉換為三維(從公式到圖很簡單，反過來非常難)，此工具就是一個很紅的kernel(?)，讓兩個input轉成三個，在高維中得到結論，分割兩個變數，再換回去一維  
->deep learning - 不需要很深的數學，不推導kernel背後數學演譯邏輯，僅用"猜答案"的訓練手法，"算出"最合適的係數or找到最好的解法(其實過程就是把圖畫出來，按照現有模式寫程式，就能自己架net，電腦自動幫你跑)  
+### week8 4/11 cluster analysis    
+* machine learning  
+* data analysis - how to use data /data mining - basic infrastructure(engineer is like the workers who buld highway)  
+* as long as hardware is set up, the key is to apply   
+* machine learning is unlike statistic(statistic has assumptions to surmise probability, yet machine learnig is the way to "guess answer")    
+* SVM - 2D -> 3D(it's easy to plot, yet hard to come up with the formula)   
+>2 input to 3, get the conclution in high dimension, seperate 2 variable, and convert back to 2D   
+* deep learning - no need for difficult math, no theory, just "guess answer" and training, find the best solution  
 
 * HW4  
->針對視覺化後的資料進行客戶分群分析與歸納出各種類型客戶的消費特徵  
+>cluster analysis and find the features    
 
 ### week9 4/18 使用文字探勘進行醫療、金融、政治三方議題相關分析與介紹  
 * 學習進度  
