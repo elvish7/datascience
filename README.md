@@ -20,12 +20,12 @@ Major： Economics/Chinese Literature
 * work on HW0  
 >[TA's code](https://github.com/MiccWan/Political-News-Analysis)  
 
-### week3 3/7 Finance CRM case introduction/91APP customer behavior analysis   
+### week3 3/7 Finance CRM case introduction/91APP Customer Behavior Analysis   
 * work on HW1(find a theme)  
 * learn python model of visualization(matplotlib,seaborn,panda...)  
 * Practice - analysis credit card data  
 
-### week4 3/14 data comprehension  
+### week4 3/14 Data Comprehension  
 * data -> information  
 * "Idea" is more importent than technique  
 * How to deal with data - visualize, sort out and ask question(to answer)   
@@ -34,7 +34,7 @@ Major： Economics/Chinese Literature
 >data set: ETF data(by Nomura)/select technology ETF only  
 >schedule: crawling, visualization(no for loop yet, also there's only 1 ETF data)  
 
-### week5 3/21 Numerical data preprocessing    
+### week5 3/21 Numerical Data Preprocessing    
 * R shiny(package) - code output website  
 * decide project theme    
 * discuss with bank manager about ETF data  
@@ -42,7 +42,7 @@ Major： Economics/Chinese Literature
 * HW2  
 >data preprocessing    
 
-### week6 3/28 data visualization/EDA  
+### week6 3/28 Data Visualization/EDA  
 * data analysis - deal with dirty data/ask questions and tell stories/decide selected data/build model    
 
 * HW3  
@@ -50,7 +50,7 @@ Major： Economics/Chinese Literature
 
 ### week7 4/4 no class    
 
-### week8 4/11 cluster analysis    
+### week8 4/11 Cluster Analysis    
 * machine learning  
 * data analysis - how to use data /data mining - basic infrastructure(engineer is like the workers who buld highway)  
 * as long as hardware is set up, the key is to apply   
@@ -62,42 +62,33 @@ Major： Economics/Chinese Literature
 * HW4  
 >cluster analysis and find the features    
 
-### week9 4/18 使用文字探勘進行醫療、金融、政治三方議題相關分析與介紹  
-* 學習進度  
-> NER、共現性  
+### week9 4/18 Text Mining(Financial/Medical/Politics)  
+* NER、 co-occurrence  
 * HW5  
->對文字資料進行預處理  
+>text data preprocessing    
 
-### week10 4/25 使用命名實體識別擴增後設資料定義與分析  
-* 學習進度  
+### week10 4/25 Data Defination & Analysis    
 * HW6  
->使用 NER 對文本進行重點動態標註  
+>NER label text key words automatic    
 
-### week11 5/2 文字共現性與關聯式分析  
-* 學習進度  
-> 關聯式分析(可找出因果關係) vs 共現性(只能看同時出現的東西)  
-> 一般是先做共現性找出頻率高的再進一步做關聯性  
-> 演算法-Apriori  
+### week11 5/2 Text Correlation    
+* relational analysis(could get causal relation) vs co-occurrence(only find things show up together)  
+* usually: co-occurrence(find high frequency) -> relational analysis    
+* algorithm-Apriori  
 * HW7  
->將文字標記分類透過共現性與關聯分析進行視覺化  
+>text notation &　group/co-occurrence & relational analysis/visualization   
 
-### week12 5/9 簡介常用於資料科學分析上的機器學習演算法  
-* 學習進度  
+### week12 5/9 Algorithm(machine learning)      
 
-### week13 5/16 三人一組，期末專題提案 Pitch  
-* 學習進度  
+### week13 5/16 Final Project Pitch   
 
-### week14 5/23 簡介常用的深度學習於資料科學研究中的案例/符號主義與連結主義的發展歷史/對演算法理解，不迷信任何方法/清楚定義出問題後找到最適合的方法與流程才是正解  
-* 學習進度  
+### week14 5/23 Deep Learning Cases/Algorithm
 
-### week15 5/30 資料科學專題講座  
-* 學習進度  
-> Fintech - 不只自動化過程，而是要創造出資料價值  
-> 人要做的是決策面的事情，不要用既定解法  
-> 
+### week15 5/30 Data Science Lecture   
+> Fintech - not only automatic, but creat value of data    
+> people should make decision instead of follow the rules    
 
-### week16 6/6 專題實作與討論時間  
-* 學習進度  
+### week16 6/6 Discussion   
 
 ### week17 Final Demo  
 
