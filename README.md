@@ -1,43 +1,39 @@
-# NTU datascience  
+# NTU CSX_datascience  
 ## Self introduction  
 Name：曹佳穎  
 Student ID：B05101047  
-Major：經濟/中文  
+Major：Economics/Chinese Literature  
 
 ## Class Schedule  
 ### week1 2/21 Introduction  
-* 學習進度  
->自學markdown語法  
+* Markdown    
 >[markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  
 >[gitbook markdown](https://wastemobile.gitbooks.io/gitbook-chinese/content/format/markdown.html)  
->複習Python  
+* review Python  
 * HW0  
->code : 從助教的程式碼中挑出一段  
->level 3 : 修改(寫說明)  
->level 2 : 執行並寫註解  
->level 1 : 畫出流程圖  
+>rewrite TA's code  
+>level 3 : edit(with comment)  
+>level 2 : run and add comment  
+>level 1 : flow chart  
 >resource : [draw io](https://www.playpcesor.com/2015/02/drawio.html)  
 
 ### week2 2/28 no class
-* 學習進度
->work on HW0  
->[助教的code](https://github.com/MiccWan/Political-News-Analysis)  
+* work on HW0  
+>[TA's code](https://github.com/MiccWan/Political-News-Analysis)  
 
-### week3 3/7 資料科學應用於金融CRM議題的實例介紹/野村證券CRM客戶關係管理/91APP客戶行為分析  
-* 學習進度  
->work on HW1(find a theme)  
->熟悉python視覺化相關模組(matplotlib,seaborn,panda...)  
->Practice-分析信用卡業務資料
+### week3 3/7 Finance CRM case introduction/91APP customer behavior analysis   
+* work on HW1(find a theme)  
+*　learn python model of visualization(matplotlib,seaborn,panda...)  
+* Practice - analysis credit card data  
 
-### week4 3/14 對資料的理解  
-* 學習進度
->瞭解資料分析的架構、由實例學習如何將資料轉換為有用的資訊  
->"點子"比程式技術更重要  
->資料分析實現的過程是一邊整理(視覺化)資料，一邊提出問題並利用程式回答   
+### week4 3/14 data comprehension  
+* data -> information  
+* "Idea" is more importent than technique  
+* How to deal with data - visualize, sort out and ask question(to answer)   
 * HW1  
->選定一種領域資料集，提出對資料的看法與問題定義流程說明  
->分析資料:野村證券提供的ETF資料集(選其中的科技類股做進一步分析)
->作業進度:爬蟲、資料視覺化(還未能寫進迴圈，只取得一支ETF資料)
+>pick a data set, define question and solution    
+>data set: ETF data(by Nomura)/select technology ETF only  
+>schedule: crawling, visualization(no for loop yet, also there's only 1 ETF data)  
 
 ### week5 3/21 數值資料預處理  
 * 學習進度  
