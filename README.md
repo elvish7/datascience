@@ -81,6 +81,9 @@ Major： Economics/Chinese Literature
 ### week12 5/9 Algorithm(machine learning)      
 
 ### week13 5/16 Final Project Pitch   
+* Topic - Analysis Market Sentiment
+>find out ETF rice change react time to news event between different industry  
+>predict price and build investment model  
 
 ### week14 5/23 Deep Learning Cases/Algorithm
 
