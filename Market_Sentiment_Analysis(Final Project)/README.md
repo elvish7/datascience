@@ -8,24 +8,29 @@ As the final project, continue the study in ETF_Analysis.ipynb but focus on the 
 
 ## Code structure  
 **[Crawler]**      
-- [x] ETF data(each industry 1-3)  
-- [ ] finance news(Reaters/CNBC/Google Finance)   
-- [ ] Set up the data files  
+- [x] ETF data(1 for each sector)  
+- [x] finance news(Reaters/CNBC/Google Finance)   
+- [x] google trend(interest over time)  
+- [x] set up the data files    
 
-**[Sentiment Analysis]**      
-- [ ] sentiment word list  
-- [ ] sentiment score(news)   
-- [x] google trend  
+**[Sentiment Score]**      
+- [x] sentiment word list  
+- [ ] sentiment model  
+- [ ] get data of each sector     
+ 
 
-**[Compare]**  
+**[Analysis]** 
+- [x] google trend    
 - [ ] visualize ETF data(Technical Analysis)  
 - [ ] check whether the news is leading indicator  
+- [x] price and volume relationship  
 
 **[Invest Strategy]**      
 - [ ] backtesting  
-- [ ] strategy#1 snp500   
-- [ ] strategy#2 VIX index  
-- [ ] strategy#3 market sentiment  
+- [x] strategy#1 MA_crossover     
+- [x] strategy#2 RSI  
+- [ ] strategy#3 OBA(price-volume)    
+- [ ] strategy#4 market sentiment(base on the score)    
 
 
 
