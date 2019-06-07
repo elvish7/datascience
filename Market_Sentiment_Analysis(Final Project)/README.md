@@ -1,15 +1,15 @@
 # ETF data - Market Sentiment Analysis
-As the final project, continue the study in ETF_Analysis.ipynb but focus on the market sentiment analysis. The goal is to  find out the relationship between ETF price and market sentiment, and build a model that could indicate ETF price.  
+In our the final project, we continue the study in ETF_Analysis.ipynb but focus on the market sentiment analysis. The goal is to  find out the relationship between ETF price and market sentiment, and build a model that could predict ETF price.  
 
 ## Hypothesis  
 * The price has a positive correlation with news sentiment score and popularity online.  
-* There's some relationship between ETF price and quality  
+* There is some relationship between ETF price and quality  
 * Different industry will react differently when facing the same event, so as the related ETF price reaction and fluctuation to news.  
 
 ## Code structure  
 **[Crawler]**      
 - [x] ETF data(1 for each sector)  
-- [x] finance news(Reaters/CNBC/Google Finance)   
+- [x] finance news(Reuters/CNBC)   
 - [x] google trend(interest over time)  
 - [x] set up the data files    
 
