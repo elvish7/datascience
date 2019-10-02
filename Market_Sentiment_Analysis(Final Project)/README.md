@@ -15,22 +15,22 @@ In our the final project, we continue the study in ETF_Analysis.ipynb but focus 
 
 **[Sentiment Score]**      
 - [x] sentiment word list  
-- [ ] sentiment model  
-- [ ] get data of each sector     
+- [x] sentiment model  
+- [x] get data of each sector     
  
 
 **[Analysis]** 
 - [x] google trend    
-- [ ] visualize ETF data(Technical Analysis)  
-- [ ] check whether the news is leading indicator  
+- [x] visualize ETF data(Technical Analysis)  
+- [x] check whether the news is leading indicator  
 - [x] price and volume relationship  
 
 **[Invest Strategy]**      
 - [ ] backtesting  
 - [x] strategy#1 MA_crossover     
 - [x] strategy#2 RSI  
-- [ ] strategy#3 OBA(price-volume)    
-- [ ] strategy#4 market sentiment(base on the score)    
+- [x] strategy#3 OBA(price-volume)    
+- [x] strategy#4 market sentiment(base on the score)    
 
 
 
